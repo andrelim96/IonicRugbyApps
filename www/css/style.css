@@ -1,1 +1,6 @@
 /* Empty. Add your own CSS if you like */
+html, body, div, object, iframe, fieldset{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
