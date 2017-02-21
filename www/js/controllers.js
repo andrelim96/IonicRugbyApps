@@ -40,12 +40,3 @@ angular.module('starter.controllers', [])
     }, 1000);
   };
 })
-
-.controller('PlaylistsCtrl', function($scope) {
-  $scope.playlists = [
-    { title: 'This will be latest news page', id: 1 },
-  ];
-})
-
-.controller('PlaylistCtrl', function($scope, $stateParams) {
-});
